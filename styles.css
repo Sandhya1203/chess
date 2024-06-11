@@ -1,0 +1,17 @@
+table,td,tr
+{
+    border:1px solid black; 
+    border-collapse: collapse;
+}
+table{
+    width:100px;
+    height: 100px;
+}
+.odd
+{
+    background-color: black;
+}
+.even
+{
+    background-color: white;
+}
